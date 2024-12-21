@@ -18,20 +18,9 @@ A simple Flutter application that fetches and displays jokes. The app contains t
 ![Home Page Screenshot](assets/images/home_page.png)
 ![Before fetching jokes](assets/images/before_fetching_jokes.png)
 ![After fetching jokes](assets/images/after_fetching_jokes.png)
-## Getting Started
 
-To run this project locally, follow these steps:
+## Git Repository Link
+https://github.com/Pramudi99/mini_project_jokes_app.git
+ 
 
-### Prerequisites
-
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (Make sure it's installed and set up on your system)
-- An editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
-- A physical or virtual Android/iOS device for testing
-
-### Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Pramudi99/mini_project_jokes_app.git
 
